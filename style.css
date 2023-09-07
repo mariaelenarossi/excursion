@@ -1,0 +1,31 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    font-size: 24px; /* Adjust the font size as needed */
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-family: Verdana, sans-serif;
+    font-size: 21px; /* Adjust the font size as needed */
+    color: gray;
+    text-align: center;
+}
+
+p{
+    font-size: 16px; /* Adjust the font size as needed */
+    color: aquamarine;
+    text-align: center;
+}
+
+
+
+video, img {
+    max-width: 100%;
+    max-height: 100%;
+}
